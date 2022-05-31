@@ -1,11 +1,12 @@
-**#Nebiat Portfolio#**
+#Nebiat Portfolio
 
-##Purpose##
+##Purpose
 Website that allows employers to view my work if they are interested in hiring me and want a better understanding of my abilities.
 
-**###website##**
+##website
 
 
-**####Contribution##**
+**Contribution**
+
 Done by Nebiat!
 
